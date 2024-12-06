@@ -1,0 +1,11 @@
+F:\work\Maui-api\Solution1\Demo.ApiClient1\bin\Debug\netstandard2.1\Demo.ApiClient1.deps.json
+F:\work\Maui-api\Solution1\Demo.ApiClient1\bin\Debug\netstandard2.1\Demo.ApiClient1.dll
+F:\work\Maui-api\Solution1\Demo.ApiClient1\bin\Debug\netstandard2.1\Demo.ApiClient1.pdb
+F:\work\Maui-api\Solution1\Demo.ApiClient1\obj\Debug\netstandard2.1\Demo.ApiClient1.csproj.AssemblyReference.cache
+F:\work\Maui-api\Solution1\Demo.ApiClient1\obj\Debug\netstandard2.1\Demo.ApiClient1.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\Maui-api\Solution1\Demo.ApiClient1\obj\Debug\netstandard2.1\Demo.ApiClient1.AssemblyInfoInputs.cache
+F:\work\Maui-api\Solution1\Demo.ApiClient1\obj\Debug\netstandard2.1\Demo.ApiClient1.AssemblyInfo.cs
+F:\work\Maui-api\Solution1\Demo.ApiClient1\obj\Debug\netstandard2.1\Demo.ApiClient1.csproj.CoreCompileInputs.cache
+F:\work\Maui-api\Solution1\Demo.ApiClient1\obj\Debug\netstandard2.1\Demo.ApiClient1.sourcelink.json
+F:\work\Maui-api\Solution1\Demo.ApiClient1\obj\Debug\netstandard2.1\Demo.ApiClient1.dll
+F:\work\Maui-api\Solution1\Demo.ApiClient1\obj\Debug\netstandard2.1\Demo.ApiClient1.pdb

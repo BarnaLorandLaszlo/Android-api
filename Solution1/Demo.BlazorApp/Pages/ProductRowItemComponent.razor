@@ -1,0 +1,51 @@
+﻿@using Demo.ApiClient1.Models.ApiModels
+@if (ProductRowItem is not null)
+{
+    <tr>
+        @if (!isEditMode)
+        {
+            <td>@ProductRowItem.ProductCode</td>
+            <td>@ProductRowItem.ProductName</td>
+            <td>@ProductRowItem.Price</td>
+            <td>
+                <a @onclick="() => isEditMode = true" href="javascript:void(0)">Edit</a>
+                <a @onclick="async () => await OnDelete.InvokeAsync(ProductRowItem.Id)" href="javascript:void(0)">Delete</a>
+            </td>
+        }
+        else
+        {
+            <td>
+                <input @bind="ProductRowItem.ProductCode" class="form-control" />
+            </td>
+            <td>
+                <input @bind="ProductRowItem.ProductName" class="form-control" />
+            </td>
+            <td>
+                <input @bind="ProductRowItem.Price" class="form-control" />
+            </td>
+            <td>
+                <a @onclick="Update" href="javascript:void(0)">Save</a>
+                <a @onclick="() => isEditMode = false" href="javascript:void(0)">Cancel</a>
+            </td>
+        }
+    </tr>
+}
+
+@code {
+    [Parameter]
+    public Product? ProductRowItem { get; set; }
+
+    [Parameter]
+    public EventCallback<Product> OnEdit { get; set; }
+
+    [Parameter]
+    public EventCallback<int> OnDelete { get; set; }
+
+    private bool isEditMode = false;
+
+    private async Task Update()
+    {
+        await OnEdit.InvokeAsync(ProductRowItem);
+        isEditMode = false;
+    }
+}

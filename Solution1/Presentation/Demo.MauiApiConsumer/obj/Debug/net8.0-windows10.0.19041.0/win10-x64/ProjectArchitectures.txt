@@ -1,0 +1,1 @@
+F:\work\Maui-api\Solution1\Presentation\Demo.MauiApiConsumer\Demo.MauiApiConsumer.csproj;x64
