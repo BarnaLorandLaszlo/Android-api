@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "F:\\work\\Maui-api\\Solution1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|f:\\work\\maui-api\\solution1\\presentation\\demo.mauiapiconsumer\\demo.mauiapiconsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|solutionrelative:presentation\\demo.mauiapiconsumer\\demo.mauiapiconsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|f:\\work\\maui-api\\solution1\\presentation\\demo.mauiapiconsumer\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|solutionrelative:presentation\\demo.mauiapiconsumer\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|f:\\work\\maui-api\\solution1\\presentation\\demo.mauiapiconsumer\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|solutionrelative:presentation\\demo.mauiapiconsumer\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|f:\\work\\maui-api\\solution1\\presentation\\demo.mauiapiconsumer\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|solutionrelative:presentation\\demo.mauiapiconsumer\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4BEA10-DA2F-44CF-95DD-5783A9C79FB0}|Demo.BlazorApp\\Demo.BlazorApp.csproj|f:\\work\\maui-api\\solution1\\demo.blazorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D4BEA10-DA2F-44CF-95DD-5783A9C79FB0}|Demo.BlazorApp\\Demo.BlazorApp.csproj|solutionrelative:demo.blazorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|f:\\work\\maui-api\\solution1\\presentation\\demo.mauiapiconsumer\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|solutionrelative:presentation\\demo.mauiapiconsumer\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|f:\\work\\maui-api\\solution1\\presentation\\demo.mauiapiconsumer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|solutionrelative:presentation\\demo.mauiapiconsumer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|f:\\work\\maui-api\\solution1\\presentation\\demo.mauiapiconsumer\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|solutionrelative:presentation\\demo.mauiapiconsumer\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|f:\\work\\maui-api\\solution1\\presentation\\demo.mauiapiconsumer\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|solutionrelative:presentation\\demo.mauiapiconsumer\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +51,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Demo.MauiApiConsumer.csproj",
+              "DocumentMoniker": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj",
+              "ToolTip": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj",
+              "RelativeToolTip": "Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T12:19:57.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\MauiProgram.cs",
               "RelativeDocumentMoniker": "Presentation\\Demo.MauiApiConsumer\\MauiProgram.cs",
               "ToolTip": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\MauiProgram.cs",
               "RelativeToolTip": "Presentation\\Demo.MauiApiConsumer\\MauiProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T21:55:37.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T21:55:37.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Presentation\\Demo.MauiApiConsumer\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Presentation\\Demo.MauiApiConsumer\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:11:25.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Presentation\\Demo.MauiApiConsumer\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Presentation\\Demo.MauiApiConsumer\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-11T11:54:14.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\work\\Maui-api\\Solution1\\Demo.BlazorApp\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo.BlazorApp\\appsettings.json",
+              "ToolTip": "F:\\work\\Maui-api\\Solution1\\Demo.BlazorApp\\appsettings.json",
+              "RelativeToolTip": "Demo.BlazorApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T12:00:51.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Presentation\\Demo.MauiApiConsumer\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Presentation\\Demo.MauiApiConsumer\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:50:36.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Presentation\\Demo.MauiApiConsumer\\Pages\\MainPage.xaml",
+              "ToolTip": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Presentation\\Demo.MauiApiConsumer\\Pages\\MainPage.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T11:44:14.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Presentation\\Demo.MauiApiConsumer\\App.xaml.cs",
+              "ToolTip": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\App.xaml.cs",
+              "RelativeToolTip": "Presentation\\Demo.MauiApiConsumer\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:43:47.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Presentation\\Demo.MauiApiConsumer\\AppShell.xaml.cs",
+              "ToolTip": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\AppShell.xaml.cs",
+              "RelativeToolTip": "Presentation\\Demo.MauiApiConsumer\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:43:17.143Z"
             }
           ]
         }
