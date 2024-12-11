@@ -21,9 +21,9 @@ public partial class AddEditProduct : ContentPage
     {
         if (_product is not null)
         {
-            txtProductCode.Text = _product.ProductCode;
+            txtProductCode.Text = _product.ProductDescription;
             txtProductName.Text = _product.ProductName;
-            txtPrice.Text = _product.Price.ToString("0.00");
+            txtPrice.Text = _product.ProductPrice.ToString("0.00");
         }
     }
 
@@ -35,9 +35,9 @@ public partial class AddEditProduct : ContentPage
 
             await _apiClient.SaveProduct(new Product
             {
-                ProductCode = txtProductCode.Text,
+                ProductDescription = txtProductCode.Text,
                 ProductName = txtProductName.Text,
-                Price = decimal.Parse(txtPrice.Text)
+                ProductPrice = decimal.Parse(txtPrice.Text)
             });
         }
         else
@@ -46,10 +46,10 @@ public partial class AddEditProduct : ContentPage
 
             await _apiClient.UpdateProduct(new Product
             {
-                Id = _product.Id,
-                ProductCode = txtProductCode.Text,
+                id = _product.id,
+                ProductDescription = txtProductCode.Text,
                 ProductName = txtProductName.Text,
-                Price = decimal.Parse(txtPrice.Text)
+                ProductPrice = decimal.Parse(txtPrice.Text)
             });
         }
 

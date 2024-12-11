@@ -38,7 +38,7 @@ namespace Demo.MauiApiConsumer
                     await Navigation.PushModalAsync(new AddEditProduct(_apiClient, product));
                     break;
                 case "Delete":
-                    await _apiClient.DeleteProduct(product.Id);
+                    await _apiClient.DeleteProduct(product.id);
                     await LoadProducts();
                     break;
             }

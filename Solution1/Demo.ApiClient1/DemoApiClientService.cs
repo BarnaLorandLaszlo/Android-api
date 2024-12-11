@@ -12,7 +12,7 @@ namespace Demo.ApiClient1
 {
     public class DemoApiClientService
     {
-        private readonly  HttpClient _httpClient;
+        private readonly HttpClient _httpClient;
 
         public DemoApiClientService(ApiClientOptions apiClientOptions)
         {
@@ -24,14 +24,15 @@ namespace Demo.ApiClient1
         {
             return await _httpClient.GetFromJsonAsync<List<Product>?>("/api/Product");
         }
-        public async Task<Product?> GetByID(int id)
+
+        public async Task<Product?> GetById(int id)
         {
-           return await _httpClient.GetFromJsonAsync<Product?>($"/api/Product/{id}");
+            return await _httpClient.GetFromJsonAsync<Product?>($"/api/Product/{id}");
         }
 
         public async Task SaveProduct(Product product)
         {
-            await _httpClient.PostAsJsonAsync("/api/product", product);
+            await _httpClient.PostAsJsonAsync("/api/Product", product);
         }
 
         public async Task UpdateProduct(Product product)
@@ -45,3 +46,4 @@ namespace Demo.ApiClient1
         }
     }
 }
+

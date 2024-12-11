@@ -6,12 +6,12 @@ namespace Demo.ApiClient1.Models.ApiModels
 {
     public class Product
     {
-        public int Id { get; set; }
+        public int id { get; set; }
         public string? ProductName { get; set; }
 
-        public string? ProductCode { get; set; }
+        public string? ProductDescription { get; set; }
 
-        public decimal Price { get; set; }
+        public decimal ProductPrice { get; set; }
 
     }
 }

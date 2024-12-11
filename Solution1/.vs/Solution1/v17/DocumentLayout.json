@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "F:\\work\\Maui-api\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|f:\\work\\maui-api\\solution1\\presentation\\demo.mauiapiconsumer\\pages\\addeditproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|solutionrelative:presentation\\demo.mauiapiconsumer\\pages\\addeditproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|f:\\work\\maui-api\\solution1\\presentation\\demo.mauiapiconsumer\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|solutionrelative:presentation\\demo.mauiapiconsumer\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D4BEA10-DA2F-44CF-95DD-5783A9C79FB0}|Demo.BlazorApp\\Demo.BlazorApp.csproj|f:\\work\\maui-api\\solution1\\demo.blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D4BEA10-DA2F-44CF-95DD-5783A9C79FB0}|Demo.BlazorApp\\Demo.BlazorApp.csproj|solutionrelative:demo.blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|f:\\work\\maui-api\\solution1\\presentation\\demo.mauiapiconsumer\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC4C293-E271-4042-8DF3-6EF34E33534D}|Presentation\\Demo.MauiApiConsumer\\Demo.MauiApiConsumer.csproj|solutionrelative:presentation\\demo.mauiapiconsumer\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\Pages\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Presentation\\Demo.MauiApiConsumer\\Pages\\MainPage.xaml.cs",
-              "ToolTip": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\Pages\\MainPage.xaml.cs",
-              "RelativeToolTip": "Presentation\\Demo.MauiApiConsumer\\Pages\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T19:12:40.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddEditProduct.xaml.cs",
-              "DocumentMoniker": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\Pages\\AddEditProduct.xaml.cs",
-              "RelativeDocumentMoniker": "Presentation\\Demo.MauiApiConsumer\\Pages\\AddEditProduct.xaml.cs",
-              "ToolTip": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\Pages\\AddEditProduct.xaml.cs",
-              "RelativeToolTip": "Presentation\\Demo.MauiApiConsumer\\Pages\\AddEditProduct.xaml.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwDAAAAAhAAAA",
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Presentation\\Demo.MauiApiConsumer\\MauiProgram.cs",
+              "ToolTip": "F:\\work\\Maui-api\\Solution1\\Presentation\\Demo.MauiApiConsumer\\MauiProgram.cs",
+              "RelativeToolTip": "Presentation\\Demo.MauiApiConsumer\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T19:12:28.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\work\\Maui-api\\Solution1\\Demo.BlazorApp\\Program.cs",
-              "RelativeDocumentMoniker": "Demo.BlazorApp\\Program.cs",
-              "ToolTip": "F:\\work\\Maui-api\\Solution1\\Demo.BlazorApp\\Program.cs",
-              "RelativeToolTip": "Demo.BlazorApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T18:50:02.398Z",
+              "WhenOpened": "2024-12-09T21:55:37.579Z",
               "EditorCaption": ""
             }
           ]

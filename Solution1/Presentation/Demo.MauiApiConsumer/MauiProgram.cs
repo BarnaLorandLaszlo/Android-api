@@ -15,7 +15,7 @@ namespace Demo.MauiApiConsumer
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
-            builder.Services.AddDemoApiClientService(x => x.ApiBaseAddress = "http://localhost:5234/");
+            builder.Services.AddDemoApiClientService(x => x.ApiBaseAddress = "http://10.0.2.2:5234");
             builder.Services.AddTransient<MainPage> ();
 
 #if DEBUG
